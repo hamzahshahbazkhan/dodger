@@ -22,9 +22,9 @@ A simple 2D dodger game built in **Rust** using **Macroquad**. The player contro
 ## Screenshots
 
 **Gameplay:**  
-![Gameplay Screenshot](assets/screenshots/gameplay.png)
+![Gameplay Screenshot](assets/screenshots/game_play.png)
 
 **Game Over:**  
-![Game Over Screenshot](assets/screenshots/gameover.png)
+![Game Over Screenshot](assets/screenshots/game_over.png)
 
 ---
